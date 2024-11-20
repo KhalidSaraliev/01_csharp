@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task/Task.csproj": {}
+    "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj": {}
   },
   "projects": {
-    "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task/Task.csproj": {
+    "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task/Task.csproj",
-        "projectName": "Task",
-        "projectPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task/Task.csproj",
+        "projectUniqueName": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj",
+        "projectName": "Task3",
+        "projectPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj",
         "packagesPath": "/Users/halidsaraliev/.nuget/packages/",
-        "outputPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task/obj/",
+        "outputPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/halidsaraliev/.nuget/NuGet/NuGet.Config"

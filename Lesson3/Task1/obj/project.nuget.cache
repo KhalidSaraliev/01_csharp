@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vmPYfhMENChNqYWtMRh2LWZ/2o1/r5MBks/tt0imk+sfrXZvIQ+MwfQaiRib6EIqgj65sxOhAYe9j6ji2Zc7SA==",
+  "dgSpecHash": "ykwEoR7MBMs=",
   "success": true,
-  "projectFilePath": "/Users/lechi/Desktop/01_csharp/Lesson3/Task1/Task1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task1/Task1.csproj",
+  "expectedPackageFiles": [
+    "/Users/halidsaraliev/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/halidsaraliev/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/halidsaraliev/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

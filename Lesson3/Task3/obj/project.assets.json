@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task1/Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task1/Task1.csproj",
+      "projectUniqueName": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj",
+      "projectName": "Task3",
+      "projectPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/Task3.csproj",
       "packagesPath": "/Users/halidsaraliev/.nuget/packages/",
-      "outputPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task1/obj/",
+      "outputPath": "/Users/halidsaraliev/Desktop/01_CSHARP/Lesson3/Task3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/halidsaraliev/.nuget/NuGet/NuGet.Config"
