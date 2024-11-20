@@ -1,0 +1,14 @@
+/Users/lechi/Desktop/Lesson3/Task/bin/Debug/net7.0/Task
+/Users/lechi/Desktop/Lesson3/Task/bin/Debug/net7.0/Task.deps.json
+/Users/lechi/Desktop/Lesson3/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/lechi/Desktop/Lesson3/Task/bin/Debug/net7.0/Task.dll
+/Users/lechi/Desktop/Lesson3/Task/bin/Debug/net7.0/Task.pdb
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.dll
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.pdb
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/lechi/Desktop/Lesson3/Task/obj/Debug/net7.0/ref/Task.dll
