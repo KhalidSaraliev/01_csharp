@@ -1,11 +1,12 @@
-﻿int a = 5;
-int b = 7;
-
-if (a > b)
+﻿void PrintSqueres(int limit)
 {
-    Console.WriteLine(a);
+    int i =1;
+    while(i <= limit)
+    {
+        Console.Write($"{i*i} ");
+        i++;
+    }
 }
-else
-{
-    Console.WriteLine(b);
-}
+PrintSqueres(5);
+PrintSqueres(10);
+PrintSqueres(15);
