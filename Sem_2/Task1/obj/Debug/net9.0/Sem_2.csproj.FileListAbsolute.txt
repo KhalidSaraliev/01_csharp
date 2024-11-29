@@ -1,0 +1,15 @@
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/bin/Debug/net9.0/Sem_2
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/bin/Debug/net9.0/Sem_2.deps.json
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/bin/Debug/net9.0/Sem_2.runtimeconfig.json
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/bin/Debug/net9.0/Sem_2.dll
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/bin/Debug/net9.0/Sem_2.pdb
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.AssemblyInfoInputs.cache
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.AssemblyInfo.cs
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.csproj.CoreCompileInputs.cache
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.sourcelink.json
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.dll
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/refint/Sem_2.dll
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.pdb
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/Sem_2.genruntimeconfig.cache
+/Users/halidsaraliev/Desktop/01_CSHARP/Sem_2/obj/Debug/net9.0/ref/Sem_2.dll
