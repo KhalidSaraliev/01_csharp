@@ -16,6 +16,6 @@ string CharArrayToString(char[] arr)
     return res;
 }
 
-char[] array = {'a', 'b', 'c', 'd', 'e', 'f'};
+char[] array = { 'a', 'b', 'c', 'd', 'e', 'f' };
 string result = CharArrayToString(array);
 Console.WriteLine(result);
