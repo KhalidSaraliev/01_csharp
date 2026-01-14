@@ -1,0 +1,14 @@
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/bin/Debug/net9.0/Task3
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/bin/Debug/net9.0/Task3.deps.json
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/bin/Debug/net9.0/Task3.runtimeconfig.json
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/bin/Debug/net9.0/Task3.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/bin/Debug/net9.0/Task3.pdb
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.AssemblyInfoInputs.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.AssemblyInfo.cs
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.csproj.CoreCompileInputs.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/refint/Task3.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.pdb
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/Task3.genruntimeconfig.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task3/obj/Debug/net9.0/ref/Task3.dll
