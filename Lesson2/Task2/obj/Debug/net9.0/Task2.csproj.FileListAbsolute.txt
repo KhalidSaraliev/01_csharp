@@ -1,0 +1,15 @@
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.AssemblyInfoInputs.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.AssemblyInfo.cs
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.csproj.CoreCompileInputs.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.sourcelink.json
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/bin/Debug/net9.0/Task2
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/bin/Debug/net9.0/Task2.deps.json
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/bin/Debug/net9.0/Task2.runtimeconfig.json
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/bin/Debug/net9.0/Task2.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/bin/Debug/net9.0/Task2.pdb
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/refint/Task2.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.pdb
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson2/Task2/obj/Debug/net9.0/ref/Task2.dll
