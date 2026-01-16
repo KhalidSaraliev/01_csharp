@@ -1,6 +1,6 @@
 ﻿
 
-//int n = 10;
+int n = 10;
 int[] arr = { 1, 43, 5, 6, 2, 34, 54, 67, 8, 9 };
 int i = 0;
 
@@ -13,7 +13,7 @@ while (i < arr.Length)
     i = i + 1;
 }
 
-max = arr[0];
+int max = arr[0];
 for (int j = 0; j < n; j++)
 {
     if (arr[j] > max)
@@ -21,5 +21,14 @@ for (int j = 0; j < n; j++)
         max = arr[j];
     }
 }
+Console.Write(max);
 
-Console.WriteLine(max);
+max = arr[0];
+foreach (int e in arr)
+{
+    if (e > max)
+    {
+        max = e;
+    }
+}
+Console.Write(max);
