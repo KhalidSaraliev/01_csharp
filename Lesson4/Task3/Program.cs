@@ -3,7 +3,7 @@
     string letters = "";
     foreach (char e in s)
     {
-        if (char.IsAscciLetter(e) == true)
+        if ( char.IsAsciiLetter(e) == true)
         {
             letters = letters + e;
         }
@@ -11,6 +11,8 @@
     return letters;
 }
 
-string str = Console.Readline();
+
+string str = Console.ReadLine();
 string result = GetLettersFromString(str);
 Console.WriteLine(result);
+

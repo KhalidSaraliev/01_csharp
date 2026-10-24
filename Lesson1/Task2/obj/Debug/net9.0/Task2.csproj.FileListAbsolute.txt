@@ -12,3 +12,4 @@
 /Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task2/obj/Debug/net9.0/Task2.pdb
 /Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task2/obj/Debug/net9.0/Task2.genruntimeconfig.cache
 /Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task2/obj/Debug/net9.0/ref/Task2.dll
+/Users/halidsaraliev/Desktop/01_CSharp/Lesson1/Task2/obj/Debug/net9.0/Task2.sourcelink.json
